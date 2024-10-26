@@ -1,1 +1,1 @@
-# New
+# PIXit - Online Photography Competition Platform
